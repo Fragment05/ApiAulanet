@@ -21,20 +21,8 @@ con aplicaciones frontend o servicios externos.
 
 ##  Base de datos
 
-Los scripts se encuentran en:
-
-/database
-
-### Archivos ##
-- schema_Aulanet.sql → estructura de la base de datos
-- seed_Aulanet.sql → datos de prueba (para la funcionalidad basica)
-
-### Pasos ##
-1. Abrir SQL Server
-2. Ejecutar schema_Aulanet.sql
-3. Ejecutar seed_Aulanet.sql
-4. Verificar conexión en la aplicación
-
+Los scripts se encuentran en la carpeta "/database" del proyecto 
+-AulaNet_Nahuatl
 
 ##  Uso de la API
 
