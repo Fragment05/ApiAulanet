@@ -49,9 +49,9 @@ Obtiene el puntaje, las preguntas de la lección ,respuestas correctas y las que
 Obtiene a los usuarios de una de las lecciones tomando Nombre, Puntaje y Tiempo
 
 
-## 🧪 Pruebas
+##  Pruebas
 
-##Puedes probar la API con:##
+####Puedes probar la API con:
 - Swagger 
 - Postman
 
